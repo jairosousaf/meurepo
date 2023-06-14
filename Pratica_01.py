@@ -2,7 +2,6 @@
 nome = input("Digite seu nome: ")
 
 print("Olá,", nome)
-print("lucas")
 
 num1 = int(input("Digite o primeiro número: "))
 num2 = int(input("Digite o segundo número: "))
