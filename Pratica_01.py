@@ -1,7 +1,7 @@
 #Cadastro de usuário
-nome = input("Digite seu nome: ")
+#nome = input(" ")
 
-print("Olá,", nome + "!")
+print("Olá, Jairo Figueiredo")
 
 num1 = int(input("Digite o primeiro número: "))
 num2 = int(input("Digite o segundo número: "))
